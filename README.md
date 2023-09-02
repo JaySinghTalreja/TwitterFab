@@ -10,8 +10,6 @@
   <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
   <img alt="repo size" src="https://img.shields.io/github/repo-size/iamageo/MultiFab"/>
   <br/>
-    <img alt="forks" src="https://img.shields.io/github/forks/iamageo/MultiFab?style=social"/>
-    <img alt="stars" src="https://img.shields.io/github/stars/iamageo/MultiFab?style=social"/>
 
 
 </p>
